@@ -1,0 +1,40 @@
+/* body {
+  background-color: black;
+} */
+header {
+  background: green;
+  padding-top:40px;
+  padding-bottom: 40px;
+}
+
+nav {
+  background: orange;
+  padding-top:40px;
+  padding-bottom: 40px;
+}
+
+.left-item {
+  float: left;
+  width: 75%;
+  background: yellow;
+  padding-top:40px;
+  padding-bottom: 40px;
+}
+
+.right-item {
+  float: right;
+  width: 25%;
+  background: cyan;
+  padding-top:40px;
+  padding-bottom: 40px;
+}
+
+.clearfix {
+  clear: both;
+}
+
+footer {
+  background: pink;
+  padding-top:40px;
+  padding-bottom: 40px;
+}
